@@ -26,6 +26,6 @@ To get started with the Contact Management App, follow these steps:
 
  - React
 - Chart.js
-- React Leaflet
+- React-query 
 - Tailwind CSS
 - Axios (for data fetching)
