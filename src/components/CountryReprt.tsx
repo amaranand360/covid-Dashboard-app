@@ -65,7 +65,7 @@ const CovidDataTable: React.FC<CovidDataTableProps> = () => {
                 <td className="px-4 py-2">
                   <img
                     src={countryData.countryInfo.flag}
-                    alt={countryData.country}
+                    alt='...'
                     decoding="async"
                     className="h-8"
                   />
